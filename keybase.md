@@ -8,7 +8,7 @@
 
 5. Add all of your account info including an email username and password.
 
-6. Congradulations after this the next step is to install keybase on a device by going to keybase.io/download.
+6. Congradulations after this the next step is to install keybase on a device by going to [keybase.io/download](https://keybase.io/download).
 
 7. Click on the Button corosponding with your operating system. 
 
