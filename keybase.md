@@ -2,9 +2,8 @@
 
 1. Go to [keybase.io](https://keybase.io)
 
-2. On the keybase page click login:
-
-3. Once at this screen click create account:
+2. On the keybase page click login, and once you are there hit create account:
+![Creating a Account](https://raw.githubusercontent.com/cappuccinocosmico/xrdenvertutorials/master/createaccount.png)
 
 5. Add all of your account info including an email username and password.
 
