@@ -12,9 +12,7 @@
 6. Congradulations after this the next step is to install keybase on a device by going to [keybase.io/download](https://keybase.io/download).
 ![Download Keybase](https://raw.githubusercontent.com/cappuccinocosmico/xrdenvertutorials/master/downloadkeybase.png)
 
-7. Click on the Button corosponding with your operating system. This would include downloading an executable on Windows and Mac, and doing terminal stuff in linux.
-
-If you are on a phone then it will take you to the app store, and you can install it from there.
+7. Click on the Button corosponding with your operating system. This would include downloading an executable on Windows and Mac, and doing terminal stuff in linux. *If you are on a phone then it will take you to the app store, and you can install it from there.*
 
 8. Once it is installed then open it and login using your username and password at the begining.
 *If you have more then one device then this process is more complicated its then recommended that and then follow the instructions provided in the app.
